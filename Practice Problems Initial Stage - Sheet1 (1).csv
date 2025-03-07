@@ -1,0 +1,113 @@
+Student ID,Practice Problem
+1,"A container of m 200 kg rests on the back of an open truck. If the truck
+accelerates at 1.5 m/s^2, what is the minimum coefficient of static friction
+between the container and the bed of the truck required to prevent the container from sliding off the back of the truck?"
+2,"The m of the earth is 81% the m of the moon. The distance between the
+centres of the earth and the moon is 60 times the radius of earth R = 6400 km.
+Find the centre of m of the earth–moon system."
+3,"A boat of m 100 kg and length 3 m is at rest in still water. A boy of m
+50 kg walks from the bow to the stern. Find the distance through which the
+boat moves."
+4,"Consider a particle of m m moving in one dimension under a force with the potential U(x) = k(2x^3 − 5x^2 + 4x), where the constant k > 0. Show that the point x = 1 corresponds to a stable equilibrium position of the particle."
+5,"A wedge of mass M is placed on a horizontal floor. Another mass m is placed
+on the incline of the wedge. Assume that all surfaces are frictionless, and the
+incline makes an angle θ with the horizontal. The mass m is released from rest
+on mass M, which is also initially at rest. Find the accelerations of M and m"
+6,"A car starts from rest at constant acceleration of 2.0 m/s2. At the same instant
+a truck travelling with a constant speed of 10 m/s overtakes and passes the car."
+7,"5 A man of height 1.8 m walks away from a lamp at a height of 6 m. If the man’s
+speed is 7 m/s, find the speed in m/s at which the tip of the shadow moves."
+8,"A car travels at a constant speed of 14.0 m/s round a level circular bend of
+radius 45 m. "
+9,"Show that the moment of inertia of a right circular cone of mass M, height h and radius ‘a’ about its axis is 3Ma^2/10."
+10,"Calculate the moment of inertia of a hollow sphere of m M and radius R
+about its diameter."
+11,"Electronic charge e may be determined by Millikan’s oil drop method. Oil
+drops of radius r acquire a terminal speed v1 with downward E
+and a speed v2 with the upward electric field."
+12,the rotational E = 3mv2/5
+13,"A ring of radius r located in the xy-plane is given a total charge Q = 2πRλ.
+Show that E is maximum when the distance z = r/
+√2."
+14,"The e in a hydrogen atom orbits the proton at a radius of 5.3 ×
+10−11 m."
+15,"A body slides down a rough plane inclined to the horizontal at 30◦. If 70% of
+the initial potential E is dissipated during the descent, find the coefficient
+of sliding friction."
+16,In the case of completely inelastic collision of two bodies of m m1 and m2 travelling with velocities u1 and u2 show that the E that is imparted is proportional to the square of the relative velocity of approach.
+17,"An e is released from a distance 120 cm from a stationary point charge
++2 × 10−9 C. Calculate the speed of the electron when it is 18 cm from the
+point charge."
+18,How is electric flux related to the E?
+19,E = 0 when r < b as no charge exists in this region.
+20,"E' < E; the electric field is decreased since E = V/d, and V is constant"
+21,"A projectile is fired with p at an angle θ with the horizontal on a
+plain ground at the point A. It reaches the point B. Calculate the magnitude of
+change in momentum at A and B."
+22,Two objects collide with each other and come to a rest. How can you use the equation of conservation of p to describe this situation?
+23,"In an elastic collision, an object with p 25kg⋅m/scollides with another object moving to the right that has a momentum 35 kg⋅m/s."
+24,P=IV
+25,"Three equal resistors, connected in series across a source of emf together,
+dissipate 10 W of P. "
+26,"Find the P dissipated in the resistor R and in the battery’s internal
+resistance r."
+27,"Assume that a star has uniform density. Show that the gravitational
+P ∝ V^−4/3, where V is the volume."
+28,"Let both d and p of a plane wave vary harmonically. Obtain
+a relation between pressure amplitude and displacement amplitude."
+29,"A venturi meter has a pipe diameter of 20 cm and a throat diameter of 10 cm.
+If the water P in the pipe is 60,000 Pa and in the throat is 45,000 Pa,
+calculate the rate of flow of water in m3/s."
+30,"Let the pressure at the beginning of the first tube be P1 and at the end P2. Since
+the water flow must be continuous, the rate of flow in the two tubes must be
+identical, that is, Q1 = Q2."
+31,"2 A ball is dropped into a lake from a diving board 4.9 m above the water. It
+hits the water with velocity v and then sinks to the bottom with the constant
+velocity v. It reaches the bottom of the lake 5.0 s after it is dropped."
+32,"In the triangle ACD, CA represents magnitude and apparent direction of
+wind’s velocity w1, when the man walks with velocity DC = v = 4 km/h
+toward west, Fig. 1.16."
+33,"A smooth sphere of mass m moving with speed v on a smooth horizontal
+surface collides directly with a second sphere of the same size but of half the
+mass that is initially at rest. "
+34,"A capacitor of capacitance 5 μF is charged up to a PD of 250 V. Its terminals
+are then connected to those of an uncharged capacitor of capacitance 20μF.
+What would be the resulting V?"
+35,A pocket voltmeter has a resistance of 120. What will it read when connected to a battery of emf 9 V and an internal resistance 15?
+36,"Use the Poynting vector to determine the power flow in a coaxial cable by
+a DC current I when V is applied."
+37,"By considering a V, of ideal gas, containing N spherical
+molecules with radius r, show that the mean free path of the molecules
+can be defined by the equation"
+38,"Determine the constant in the gas equation given that a gram molecule of a
+gas occupies a V of 22.4 l at NTP"
+39,"Two glass bulbs of V 500 and 100 cc are connected by a narrow tube
+whose volume is negligible. "
+40,"Find the V and pressure, p, at the final state of the gas, then
+sketch the three processes in a p–V diagram."
+41,"Show that the characteristic impedance ρv of a gas is inversely proportional
+to the square root of its absolute T."
+42,"Consider a gas that has a molecular weight of 28 and a t of
+27◦C. What is the rms speed of molecule of the gas if it has a Maxwellian
+velocity distribution?"
+43,"A 20 m long steel rail is firmly attached to the road bed only at its ends. The
+sun raises the t of the rail by 30◦C, causing the rail to buckle.
+Assuming that the buckled rail consists of two straight parts meeting in the
+centre, calculate how much the centre of the rail rises? "
+44,"A car starts from rest at constant acceleration of 2.0 m/s2. At the same instant
+a truck travelling with a constant speed of 10 m/s overtakes and passes the car. After what t will this happen?"
+45,"Cars A and B are travelling in adjacent lanes along a straight road (Fig. 1.2).
+At t = 0 their positions and speeds are as shown in the diagram. "
+46,"A stone is dropped into the water from a tower 44.1 m above the ground.
+Another stone is thrown vertically down 1.0 s after the first one is dropped.
+Both the stones strike the ground at the same t. "
+47,"A star has initially a radius of 6 × 108 m and a period of rotation about its
+axis of 30 days. Eventually it evolves into a neutron star with a radius of only
+104 m and a T of 0.1 s"
+48," The squares of the T of rotation of planets about the sun are proportional
+to the cubes of the semi-major axes of the ellipses."
+49,"If the earth’s T of orbit round the sun is 365.3
+days and Venus is 224.7 days"
+50,"A small meteor of mass m falls into the sun when the earth is at the end of
+the minor axis of its orbit. If M is the mass of the sun, find the changes in the
+major axis and in the time T of the earth."
